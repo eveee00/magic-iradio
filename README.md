@@ -36,8 +36,7 @@ Both SSH and Telnet seem to not be present.
     $ curl -H 'Authorization: Basic c3UzZzRnbzZzazc6amkzOTQ1NHh1L14=' http://192.168.178.95:8080
     curl: (1) Received HTTP/0.9 when not allowed
     ```
-    
-    - You can actually view this in the browser, though it will error out:
+  - You can actually view this in the browser, though it will error out:
 
     ```
     can't open 'index.html'
