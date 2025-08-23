@@ -26,7 +26,7 @@ Both SSH and Telnet seem to not be present on my device.
 ### 80
   - Identifies itself as "magic iradio"
   - Runs the API to control the device through the app. API uses [basic auth](https://github.com/edberoi/python-airmusicapi?tab=readme-ov-file#authentication) and the password should be the same on every device.
-  - Apparently, on some olderr models, [no auth was required](https://github.com/edberoi/python-airmusicapi?tab=readme-ov-file#authentication) to use the API. This isn't the case for my device though.
+  - Apparently, on some older models, [no auth was required](https://github.com/edberoi/python-airmusicapi?tab=readme-ov-file#authentication) to use the API. This isn't the case for my device though.
 
 ### 8080
   - Uses the same authentication as port 80
