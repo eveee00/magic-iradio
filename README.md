@@ -1,4 +1,5 @@
 # magic-iradio
+i will probably move this to the wiki later, this isn't finished anyways.
 
 ## Credits
 I know that some similar projects exist and I will credit them here.
