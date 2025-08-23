@@ -19,7 +19,7 @@ I have a Tschibo "TCM" Internetradio. I don't have the exact model though, since
 ## Shell access
 *Will be expanded later*
 
-Both SSH and Telnet seem to not be present.
+Both SSH and Telnet seem to not be present on my device.
 
 ## Ports
 ### 80
