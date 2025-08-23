@@ -51,4 +51,6 @@ Both SSH and Telnet seem to not be present on my device.
     The requested URL was not found
     </BODY></HTML>
     ```
-    
+
+## More info *I will move these things later*
+- https://seclists.org/fulldisclosure/2023/Sep/1
