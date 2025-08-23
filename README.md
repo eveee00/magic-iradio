@@ -13,7 +13,7 @@ I know that some similar projects exist and I will credit them here.
    - Info about the hardware
   
 ## My device
-I have a Tschibo "TCM" Internetradio. I don't have the exact model though, since it isn't listed on the device itself. [This](https://www.tchibo.de/products/112837416270/wlan-internetradio-mit-farbdisplay?article_id=120642108004) one appears to be the closest one to mine (newer model?).
+I have a Tschibo "TCM" Internetradio (Tchibo 381 600). [This](https://www.tchibo.de/products/112837416270/wlan-internetradio-mit-farbdisplay?article_id=120642108004) one appears to be the closest one to mine (newer model?).
 
 *Will add pictures later*
 
