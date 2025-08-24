@@ -52,5 +52,8 @@ Both SSH and Telnet seem to not be present on my device.
     </BODY></HTML>
     ```
 
+## How to dump fw
+wip
+
 ## More info *I will move these things later*
 - https://seclists.org/fulldisclosure/2023/Sep/1
