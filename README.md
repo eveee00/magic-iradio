@@ -53,7 +53,11 @@ Both SSH and Telnet seem to not be present on my device.
     ```
 
 ## How to dump fw
-wip
+*wip*
+1. Dump chip using you preferred tool
+2. Get a 2.x version of binwalk
+3. run `binwalk -eM dump.bin`
+4. You should get a folder named something like _dump.bin.extracted
 
 ## More info *I will move these things later*
 - https://seclists.org/fulldisclosure/2023/Sep/1
